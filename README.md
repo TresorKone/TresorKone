@@ -46,7 +46,7 @@ class TresorKone
 
 $my_name = new TresorKone();
 
-echo 'my name is' . $my_name -> getName(); //return 'my name is Koné Trésor'
+echo 'my name is' . ' ' . $my_name -> getName(); //return 'my name is Koné Trésor'
 
 </pre>
 
