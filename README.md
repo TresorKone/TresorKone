@@ -53,11 +53,6 @@ echo 'my name is' . ' ' . $my_name -> getName(); //return 'my name is Koné Tré
 <pre>
     <!DOCTYPE html>
     <html lang="en">
-    <head>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    </head>
     <body>
         Download my CV:
         - English version in <a href="./Docs/TresorKone CV ENG-vers.pdf">PDF<a> or in <a href="./Docs/TresorKone CV ENG-PNG.png">PNG<a>
