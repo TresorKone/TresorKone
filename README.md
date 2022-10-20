@@ -61,7 +61,7 @@ echo 'my name is' . ' ' . $my_name -> getName(); //return 'my name is Koné Tré
     <body>
         Download my CV:
         - English version in <a href="./Docs/TresorKone CV ENG-vers.pdf">PDF<a> or in <a href="./Docs/TresorKone CV ENG-PNG.png">PNG<a>
-        - French version in <a href="./Docs/TresorKone CV FR-vers">PDF<a> or in <a href="./Docs/TresorKone CV FR-PNG.png">PNG<a>
+        - French version in <a href="./Docs/TresorKone CV FR-vers.pdf">PDF<a> or in <a href="./Docs/TresorKone CV FR-PNG.png">PNG<a>
     </body>
     </html>
 </pre>
