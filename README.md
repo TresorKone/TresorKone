@@ -58,12 +58,11 @@ echo 'my name is' . ' ' . $my_name -> getName(); //return 'my name is Koné Tré
         <meta charset="UTF-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Document</title>
     </head>
     <body>
         Download my CV:
-        - English version in <a href="./Docs/TresorKone CV ENG-vers.pdf">PDF<a> or in <a href="TresorKone CV ENG-PNG.png">PNG<a>
-        - French version in <a href="TresorKone CV FR-vers">PDF<a> or in <a href="TresorKone CV FR-PNG.png">PNG<a>
+        - English version in <a href="./Docs/TresorKone CV ENG-vers.pdf">PDF<a> or in <a href="[TresorKone CV ENG-PNG.png](https://github.com/TresorKone/TresorKone/raw/main/Docs/TresorKone%20CV%20ENG-PNG.png)">PNG<a>
+        - French version in <a href="TresorKone CV FR-vers">PDF<a> or in <a href="[TresorKone CV FR-PNG.png](https://github.com/TresorKone/TresorKone/raw/main/Docs/TresorKone%20CV%20FR-PNG.png)">PNG<a>
     </body>
     </html>
 
