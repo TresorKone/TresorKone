@@ -31,7 +31,7 @@ class TresorKone
                         'frontend' => ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'TailWind'],
                         'backend' => ['Symfony', 'PHP'],
                         'database'=> ['MySQL', 'MariaDB'],
-                        'tools'=> ['VS Code', 'Docker', 'GitHub Actions', 'Heroku', 'Apache'],
+                        'tools'=> ['VS Code', 'PHP Storm', 'Docker', 'GitHub Actions', 'Heroku', 'Apache'],
                         'misc'=> ['SCRUM', 'GNU/Linux'],
     ];
     private array $architecture = ['SPA_Ajax', 'MVC'];
