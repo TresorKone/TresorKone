@@ -50,7 +50,7 @@ echo 'my name is' . ' ' . $my_name -> getName(); //return 'my name is Koné Tré
 
 </pre>
 
-<pre>
+[//]: # (<pre>
     <!DOCTYPE html>
     <html lang="en">
     <body>
@@ -59,7 +59,7 @@ echo 'my name is' . ' ' . $my_name -> getName(); //return 'my name is Koné Tré
         - French version in <a href="./Docs/TresorKone CV FR-vers.pdf">PDF<a> or in <a href="./Docs/TresorKone CV FR-PNG.png">PNG<a>
     </body>
     </html>
-</pre>
+</pre>)
 
 
 
