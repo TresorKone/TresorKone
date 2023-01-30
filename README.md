@@ -29,9 +29,9 @@ class TresorKone
     private array $languageSpoken = ['en_US', 'fr_FR'];
     private array $code = [
                         'frontend' => ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'TailWind'],
-                        'backend' => ['Symfony', 'PHP'],
+                        'backend' => ['Symfony', 'PHP', 'nodeJs', 'express'],
                         'database'=> ['MySQL', 'MariaDB'],
-                        'tools'=> ['VS Code', 'PHP Storm', 'Docker', 'GitHub Actions', 'Heroku', 'Apache'],
+                        'tools'=> ['VS Code', 'Jet Brain IDE', 'Docker', 'Heroku', 'Apache'],
                         'misc'=> ['SCRUM', 'GNU/Linux'],
     ];
     private array $architecture = ['SPA_Ajax', 'MVC'];
