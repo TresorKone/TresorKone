@@ -30,7 +30,7 @@ class TresorKone
     private array $code = [
                         'frontend' => ['HTML', 'CSS', 'JavaScript', 'Boostrap', 'TailWind'],
                         'backend' => ['Symfony', 'PHP', 'nodeJs', 'express'],
-                        'database'=> ['MySQL', 'MariaDB'],
+                        'database'=> ['MySQL', 'MariaDB', mongoDBAtlas],
                         'tools'=> ['VS Code', 'Jet Brain IDE', 'Docker', 'Heroku', 'Apache'],
                         'misc'=> ['SCRUM', 'GNU/Linux'],
     ];
